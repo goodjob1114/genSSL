@@ -5,7 +5,7 @@ simple script to generate test certificate &amp; private key
 ```
 cd project_folder
 mkdir tools && cd tools
-wget 
+wget https://raw.githubusercontent.com/goodjob1114/genSSL/master/genSSL.sh
 chmod +x genSSl.sh
 ./genSSL.sh
 ```
